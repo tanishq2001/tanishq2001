@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanishq Agarwal.
 Nice to meet you!
-- 👀 I’m interested in Machine learning and Web Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Backend Web Development.
 - 💞️ I’m looking to collaborate on Web Pojects.
 - 📫 You can Reach out to me by mailing at: ta15@iitbbs.ac.in
