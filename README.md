@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanishq Agarwal.
 Nice to meet you!
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently currently working as Software Engineer in Accenture.
+- 🌱 I’m currently currently working as Software Engineer in Cars24.
 - 💞️ I’m looking to collaborate on Pojects on Generative AI , Spring boot etc.
 - 📫 You can Reach out to me by mailing at: ta15@iitbbs.ac.in
 
